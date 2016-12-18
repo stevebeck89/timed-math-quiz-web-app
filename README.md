@@ -12,5 +12,19 @@ Division:
 
 2, 3, 4, ?2-4, 5, 6, 7, ?5-7, 8, 9, ?8-9, 1-9
 
+## Getting Started
+
+Install the required dependencies
+
+```
+npm install
+```
+
+Run the test server
+
+```
+npm start
+```
+
 ---
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
